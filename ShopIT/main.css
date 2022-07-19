@@ -1,0 +1,51 @@
+body
+{
+	background-color: #2F3336;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+p
+{
+	font-size: 16px;
+	font-weight: 400;
+	color: #91a33b;
+	margin: 20px;
+}
+
+.devices
+{
+	text-align: center;
+}
+
+.devices img
+{
+	width: 100%;
+	height: auto;
+}
+
+.devices p
+{
+	margin-bottom: 30px;
+}
+
+.devices figcaption
+{
+	margin-top: 8px;
+}
+
+.navbar
+{
+	min-height: 57px;
+}
+
+.bg-devices
+{
+	background-color: #91a33b !important;
+}
+
+a 
+{
+	color: white;
+}
